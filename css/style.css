@@ -154,7 +154,7 @@ a:focus {
 .navbar-brand span {
   font-weight: bold;
   font-size: 32px;
-  color: #ffffff;
+  color: white;
 }
 
 .custom_nav-container {
@@ -176,7 +176,7 @@ a:focus {
 }
 
 .custom_nav-container .navbar-nav .nav-item:hover .nav-link, .custom_nav-container .navbar-nav .nav-item.active .nav-link {
-  color: #ffbe33;
+  color: #a5a5a5;
 }
 
 .custom_nav-container .nav_search-btn {
@@ -239,7 +239,7 @@ a:focus {
 .user_option .order_online {
   display: inline-block;
   padding: 8px 30px;
-  background-color: #ffbe33;
+  background-color: #a5a5a5;
   color: #ffffff;
   border-radius: 45px;
   -webkit-transition: all 0.3s;
@@ -248,7 +248,7 @@ a:focus {
 }
 
 .user_option .order_online:hover {
-  background-color: #e69c00;
+  background-color: #505050;
 }
 
 .custom_nav-container .navbar-toggler {
@@ -341,6 +341,11 @@ a:focus {
   margin-bottom: 145px;
 }
 
+#texto-slider {
+  /* font-weight: bold; */
+  font-size: 1.6em;
+}
+
 .slider_section .detail-box h1 {
   font-size: 3.5rem;
   font-weight: bold;
@@ -393,7 +398,7 @@ a:focus {
 .slider_section .carousel-indicators li.active {
   width: 20px;
   height: 20px;
-  background-color: #ffbe33;
+  background-color: #a5a5a5;
 }
 
 .offer_section {
